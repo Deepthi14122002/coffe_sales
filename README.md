@@ -1,4 +1,5 @@
 Coffee Sales Forecasting – README
+
 What This Project Is About
 In this project, we worked with coffee sales data to understand how sales have changed over time and to predict future sales. The idea is to help coffee businesses make smarter decisions by using data, not just guesswork.
 
