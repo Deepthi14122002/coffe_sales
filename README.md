@@ -1,4 +1,4 @@
-Coffee Sales Forecasting – README
+**Coffee Sales Forecasting – README**
 
 **What This Project Is About:**
 
